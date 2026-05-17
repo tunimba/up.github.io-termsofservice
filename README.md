@@ -1,47 +1,78 @@
-<h1>App Terms and Conditions of Use</h1>
+Last updated: 2026.5.17
 
-<h2>1. Terms</h2>
+# 1. Acceptance of These Terms
+By downloading, installing, or using the UP⁺ mobile application — formerly Psychpedia ("UP⁺", "we", "our", or "us") — you ("User", "you", or "your") agree to be bound by these Terms of Service ("Terms"). If you do not agree with these Terms, do not use UP⁺.
 
-<p>By accessing this app, accessible from https://tunimba.github.io/psikopedia.github.io-termsofservice/, you are agreeing to be bound by these app Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this app are protected by copyright and trade mark law.</p>
+# 2. Eligibility
+You must be at least 4 years old (or the minimum age of digital consent in your jurisdiction) to use UP⁺. UP⁺ contains general mental-wellness information; it is not intended for use by minors without parental guidance.
 
-<h2>2. Use License</h2>
+# 3. License Grant
+We grant you a limited, non-transferable, revocable, and non-exclusive license to use UP⁺ for personal, non-commercial purposes in accordance with these Terms. All rights not expressly granted remain with us and our licensors.
 
-<p>Permission is granted to temporarily download one copy of the materials on Psikopedia's app for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
+# 4. App Content
+UP⁺ provides original educational content (courses, articles, experiments) along with reviews and summaries of publicly available books, and links to publicly hosted videos from third parties. References to book titles, author names, and other trademarks remain the property of their respective owners.
 
-<ul>
-    <li>modify or copy the materials;</li>
-    <li>use the materials for any commercial purpose or for any public display;</li>
-    <li>attempt to reverse engineer any software contained on Psikopedia's app;</li>
-    <li>remove any copyright or other proprietary notations from the materials; or</li>
-    <li>transferring the materials to another person or "mirror" the materials on any other server.</li>
-</ul>
+The content of UP⁺ is provided for **educational and self-reflection purposes only**. It is general psychology and mental-wellness information, not a substitute for medical, psychological, or psychiatric advice, diagnosis, or treatment.
 
-<p>This will let Psikopedia to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the <a href="https://www.termsofservicegenerator.net">Terms Of Service Generator</a>.</p>
+# 5. Subscriptions & Purchases
+**Subscriptions** — UP⁺ offers optional subscription plans that unlock premium content (full-length articles, full course access, deeper experiment summaries, and ad-free content).
 
-<h2>3. Disclaimer</h2>
+**In-App Purchases** — Subscriptions are sold through Apple's in-app purchase system. Apple handles all payments, taxes, and billing.
 
-<p>All the materials on Psikopedia's app are provided "as is". Psikopedia makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Psikopedia does not make any representations concerning the accuracy or reliability of the use of the materials on its app or otherwise relating to such materials or any sites linked to this app.</p>
+**Renewal & Cancellation** — Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage or cancel your subscription through your Apple ID settings.
 
-<h2>4. Limitations</h2>
+# 6. Prohibited Conduct
+You agree not to:
 
-<p>Psikopedia or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Psikopedia's app, even if Psikopedia or an authorize representative of this app has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.</p>
+Use the app in any way that could harm your own or others' mental or physical health.
 
-<h2>5. Revisions and Errata</h2>
+Violate any applicable law.
 
-<p>The materials appearing on Psikopedia's app may include technical, typographical, or photographic errors. Psikopedia will not promise that any of the materials in this app are accurate, complete, or current. Psikopedia may change the materials contained on its app at any time without notice. Psikopedia does not make any commitment to update the materials.</p>
+Reverse-engineer, modify, or exploit UP⁺'s technology.
 
-<h2>6. Links</h2>
+Use bots or scripts to abuse the system.
 
-<p>Psikopedia has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Psikopedia of the site. The use of any linked app is at the user's own risk.</p>
+Reproduce, redistribute, or sell content from UP⁺ (articles, book reviews, courses, summaries) without our permission.
 
-<h2>7. Site Terms of Use Modifications</h2>
+# 7. Intellectual Property
+All content in the UP⁺ app that we have authored (logos, code, UI, designs, original articles, course material, and graphics) belongs to UP⁺ or its licensors. You may not use them for commercial purposes without permission. Quotations from public works are included under fair use for educational commentary.
 
-<p>Psikopedia may revise these Terms of Use for its app at any time without prior notice. By using this app, you are agreeing to be bound by the current version of these Terms and Conditions of Use.</p>
+Any feedback or suggestions you provide can be used freely by us without compensation.
 
-<h2>8. Your Privacy</h2>
+# 8. Privacy
+Your privacy is important. Please read our Privacy Policy at https://tunimba.github.io/up.github.io-privacypolicy/ to understand how we collect, use, and protect your data. It forms part of these Terms.
 
-<p>Please read our Privacy Policy.</p>
+# 9. Mental Health Disclaimer
+UP⁺ is **not** a medical or therapeutic service. It does not diagnose, treat, prevent, or cure any condition. The app provides general psychology and mindfulness content for educational and self-reflection purposes only. If you are experiencing a mental health crisis or have concerns about your wellbeing, please consult a qualified professional or contact local emergency services.
 
-<h2>9. Governing Law</h2>
+The mood tracking, breathing exercises, meditation guides, and other practices in the app are tools for self-reflection and habit-building, not clinical interventions.
 
-<p>Any claim related to Psikopedia's app shall be governed by the laws of tr without regards to its conflict of law provisions.</p>
+# 10. Disclaimers
+UP⁺ is provided "as is" and "as available". We do not guarantee that the content, exercises, or features will produce any particular emotional, mental, or behavioral outcome. We are not responsible for content loss or damage caused by use or misuse of the app.
+
+# 11. Limitation of Liability
+To the fullest extent allowed by law, UP⁺ shall not be liable for any indirect, incidental, or consequential damages. Our total liability for any claim shall not exceed 50 EUR.
+
+# 12. Indemnification
+You agree to indemnify and hold harmless UP⁺, its affiliates, and staff from any claims or damages arising out of your use of the app or violation of these Terms.
+
+# 13. Termination
+**By You** — You may stop using UP⁺ at any time by deleting the app.
+
+**By Us** — We may suspend or terminate your access if you violate these Terms or misuse the app.
+
+**Effect** — Certain clauses (Intellectual Property, Disclaimers, Liability) will survive termination.
+
+# 14. Governing Law & Dispute Resolution
+These Terms are governed by the laws of Turkey. You agree to resolve any disputes through the courts of Turkey, unless local consumer protection laws offer you additional rights.
+
+# 15. Changes to the Terms
+We may update these Terms at any time. Continued use of UP⁺ after the effective date means you accept the changes.
+
+# 16. Miscellaneous
+These Terms and the Privacy Policy form the entire agreement between you and UP⁺. If any part is found invalid, the rest remains enforceable. You may not transfer these Terms without our permission.
+
+# 17. Contact
+For questions or support:
+
+Email: tunahanaktay.apps@gmail.com
